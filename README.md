@@ -9,6 +9,4 @@ This is still a test
 Master is protected branch 
 
 
-# Testing more
-
-Master is protected ?
+#dummy dummy
